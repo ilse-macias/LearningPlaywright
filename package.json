@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "playwright": "^1.22.2"
+  },
+  "name": "playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.22.2"
+  },
+  "scripts": {
+    "test": ".\first.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
